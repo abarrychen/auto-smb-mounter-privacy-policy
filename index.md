@@ -1,3 +1,8 @@
+---
+layout: default
+title: Auto SMB Mounter Privacy Policy
+---
+
 # Auto SMB Mounter Privacy Policy
 
 Effective date: September 26, 2026
